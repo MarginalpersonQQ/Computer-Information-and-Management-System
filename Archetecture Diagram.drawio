@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0">
   <diagram name="Page-1" id="YdEEjsUIaPjFnyGS6zrW">
-    <mxGraphModel dx="1544" dy="1237" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="800" background="none" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="878" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="800" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,10 +139,10 @@
         <mxCell id="qvS-oBefdV2NET1dibDh-14" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qvS-oBefdV2NET1dibDh-17" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-16">
+        <mxCell id="qvS-oBefdV2NET1dibDh-19" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qvS-oBefdV2NET1dibDh-19" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-18">
+        <mxCell id="qvS-oBefdV2NET1dibDh-21" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-1" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="Corporate Branding Pag" vertex="1">
@@ -164,19 +164,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-9" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="About Us" vertex="1">
-          <mxGeometry height="60" width="80" x="1280" y="-40" as="geometry" />
-        </mxCell>
-        <mxCell id="qvS-oBefdV2NET1dibDh-10" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="Solutions / Services" vertex="1">
-          <mxGeometry height="60" width="80" x="1280" y="60" as="geometry" />
+          <mxGeometry height="60" width="80" x="1280" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-11" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="AI Support PC Building" vertex="1">
           <mxGeometry height="60" width="80" x="1280" y="160" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-16" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="Success Stories" vertex="1">
-          <mxGeometry height="60" width="80" x="1280" y="-140" as="geometry" />
+          <mxGeometry height="60" width="80" x="1280" y="60" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-18" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="&lt;div&gt;News&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="1280" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-20" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="-10" as="sourcePoint" />
+            <mxPoint x="1370" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-10" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="Solutions / Services" vertex="1">
+          <mxGeometry height="60" width="80" x="1280" y="-40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
