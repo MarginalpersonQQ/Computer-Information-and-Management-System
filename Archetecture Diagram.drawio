@@ -130,6 +130,42 @@
         <mxCell id="iIMW2tOeGaCqozdedzyF-53" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;div&gt;AI Support PC Building&lt;/div&gt;&lt;div&gt;System&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="80" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-12" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-13" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-14" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-1" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="Corporate Branding Pag" vertex="1">
+          <mxGeometry height="60" width="80" x="1160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-4" edge="1" parent="1" source="iIMW2tOeGaCqozdedzyF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qvS-oBefdV2NET1dibDh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="310" as="sourcePoint" />
+            <mxPoint x="930" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-5" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="&lt;div&gt;EPR Login Page&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="1160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-6" edge="1" parent="1" source="iIMW2tOeGaCqozdedzyF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qvS-oBefdV2NET1dibDh-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="180" as="sourcePoint" />
+            <mxPoint x="1200" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-9" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="&lt;span class=&quot;HwtZe&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;Business Items&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="1280" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-10" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="Contact Info" vertex="1">
+          <mxGeometry height="60" width="80" x="1280" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvS-oBefdV2NET1dibDh-11" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="AI Support PC Building" vertex="1">
+          <mxGeometry height="60" width="80" x="1280" y="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
