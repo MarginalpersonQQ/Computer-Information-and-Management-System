@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0">
   <diagram name="Page-1" id="YdEEjsUIaPjFnyGS6zrW">
-    <mxGraphModel dx="2180" dy="1581" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="800" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1092" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="800" pageHeight="800" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-1" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="Corporate Branding Page" vertex="1">
-          <mxGeometry height="60" width="80" x="1140" y="250" as="geometry" />
+          <mxGeometry height="60" width="80" x="1130" y="330" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-4" edge="1" parent="1" source="iIMW2tOeGaCqozdedzyF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qvS-oBefdV2NET1dibDh-1">
           <mxGeometry relative="1" as="geometry">
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-5" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="&lt;div&gt;ERP Login Page&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="1150" y="-150" as="geometry" />
+          <mxGeometry height="60" width="80" x="1130" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-6" edge="1" parent="1" source="iIMW2tOeGaCqozdedzyF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qvS-oBefdV2NET1dibDh-5">
           <mxGeometry relative="1" as="geometry">
@@ -170,31 +170,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-9" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="About Us" vertex="1">
-          <mxGeometry height="60" width="80" x="1270" y="50" as="geometry" />
+          <mxGeometry height="60" width="80" x="1260" y="130" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-11" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="AI Support PC Building" vertex="1">
-          <mxGeometry height="60" width="80" x="1270" y="450" as="geometry" />
+          <mxGeometry height="60" width="80" x="1260" y="530" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-16" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="Success Stories" vertex="1">
-          <mxGeometry height="60" width="80" x="1270" y="250" as="geometry" />
+          <mxGeometry height="60" width="80" x="1260" y="330" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-18" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="&lt;div&gt;News&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="1270" y="-50" as="geometry" />
+          <mxGeometry height="60" width="80" x="1260" y="30" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-20" edge="1" parent="1" source="qvS-oBefdV2NET1dibDh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="qvS-oBefdV2NET1dibDh-10" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1230" y="-110" as="sourcePoint" />
-            <mxPoint x="1370" y="-110" as="targetPoint" />
+            <mxPoint x="1220" y="-30" as="sourcePoint" />
+            <mxPoint x="1360" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-10" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="Solutions / Services" vertex="1">
-          <mxGeometry height="60" width="80" x="1270" y="150" as="geometry" />
+          <mxGeometry height="60" width="80" x="1260" y="230" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-24" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="&lt;div&gt;Contact Us&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="1270" y="350" as="geometry" />
+          <mxGeometry height="60" width="80" x="1260" y="430" as="geometry" />
         </mxCell>
         <mxCell id="qvS-oBefdV2NET1dibDh-25" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="&lt;div&gt;SEO Optimization&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="1270" y="550" as="geometry" />
+          <mxGeometry height="60" width="80" x="1260" y="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
