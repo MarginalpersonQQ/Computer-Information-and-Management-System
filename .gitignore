@@ -1,2 +1,34 @@
 .env
 .idea
+
+# Local runtime and customer data
+data/
+backups/
+uploads/
+photos/
+work/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+*.db-*
+
+# Credentials and machine-specific state
+.env*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+.ssh/
+ssh/
+wireguard/
+wireguard-clients/
+id_rsa*
+id_ed25519*
+
+# Local delivery bundles
+*.zip
+*-deploy.tar.gz

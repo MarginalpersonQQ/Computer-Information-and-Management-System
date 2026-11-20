@@ -1,0 +1,19 @@
+[Unit]
+Description=YongYang Computer repair workspace
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/yongyang
+Environment=HOST=127.0.0.1
+Environment=PORT=8080
+Environment=BASE_URL=http://127.0.0.1:8080
+ExecStart=%h/yongyang/.venv/bin/python %h/yongyang/server.py
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,7 @@
+[Unit]
+Description=Backup YongYang repair database
+[Service]
+Type=oneshot
+WorkingDirectory=%h/yongyang
+ExecStart=/bin/sh -c 'mkdir -p backups; %h/yongyang/.venv/bin/python server.py --backup backups/repair-$(date +%%Y%%m%%d-%%H%%M%%S).sqlite3'
+UMask=0077
